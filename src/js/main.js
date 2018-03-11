@@ -1,7 +1,7 @@
 const APP_TITLE = 'WeConnect';
 const JUMBOTRON_MAIN_TEXT = 'Connecting People';
 const JUMBOTRON_SUB_TEXT = 'What are you waiting for?';
-const COPYRIGHT = 'Chucks Amaechi';
+const COPYRIGHT = 'WeConnect';
 
 
 //document.getElementById("navBarAppTitle").innerHTML = APP_TITLE;
