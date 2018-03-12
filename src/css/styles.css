@@ -23,28 +23,20 @@ body{
 
 }
 
-main{
-    /*max-width: 1000px;*/
-}
-
 
 footer{
     background-color: #000105;
     color: var(--we_color0);
 }
 
-#jumbotronSubText {
-    /*color: var(--we_color2);*/
-}
-
-a.jumbotronSubText{
+a.jumbotron-text_sub{
     border: 3px dotted;
     border-color: var(--we_color1); 
     background: var(--we_color3);
     color: var(--we_color2);
 }
 
-a.jumbotronSubText:hover {
+a.jumbotron-text_sub:hover {
     border: 3px dotted;
     border-color: var(--we_color11); 
     background: var(--we_color33);
@@ -80,13 +72,13 @@ a.jumbotronSubText:hover {
   }
 
   @media (min-width: 576px){
-    #jumbotronMainText {
+    #jumbotron-text_main {
         font-size: 5.5rem;
         font-weight: 300;
         line-height: 1.2;
     }
     
-    .jumbotronSubText {
+    .jumbotron-text_sub {
         font-size: 2rem;
         font-weight: 400;
         line-height: 1.2;
